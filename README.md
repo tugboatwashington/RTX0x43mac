@@ -86,9 +86,13 @@ General Informations:
 - If you have a problem, [CLICK HERE](https://youtu.be/B5xxURQtd3A) to watch the YouTube video.
 - If you find any malfunction, contact me on Discord: Astraa#6100 or join my [Discord Server](https://dsc.gg/astraadev).
 
+Nice to Have:
+Discord Scam Guild Template: https://discord.new/5QaMySZDeMAB
+Mass DM Message Template: `Hey umm idk what happend or if it's really you but it was your name and the same avatar and you sent a girl erm***** stuff like what the fuck? <INSERT DISCORD INVITE HERE> check #exposed and you'll see. Anyways until you explain what happend im blocking you. sorry if this is an understanding but i do not wanna take risks with having creeps on my friendlist.`
+
 
 ## Example
-![verification_example.png](https://cdn.discordapp.com/attachments/826581697436581919/989174080332787712/unknown.png?size=4096)
+![verification_example.png](https://imgur.com/SMUt1JE.png)
 
 
 ## Credits
