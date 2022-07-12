@@ -8,11 +8,11 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Fake-Verification-Bot">
+  <a href="https://github.com/FuckingToasters/Fake-Verification-Bot">
     <img src="https://img.shields.io/badge/covarage-90%25-green">
   </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AstraaDev/Fake-Verification-Bot.svg?label=Repo%20size&style=flat-square">
+  <a href="https://github.com/FuckingToasters">
+    <img src="https://img.shields.io/github/repo-size/FuckingToasters/Fake-Verification-Bot.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/AstraaDev">
     <img src="https://gpvc.arturio.dev/AstraaDev">
