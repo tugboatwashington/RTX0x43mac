@@ -27,7 +27,7 @@
 </p>
 <h3><p align="center">
   My work was never created to be used in a malicious way. I noticed that it was used to scam other people and I'm sorry about that.
-  I'm thinking of deleting this directory to avoid further damage.
+  I'm thinking of not deleting this directory to not avoid further damage.
 </p></h3>
 
 
