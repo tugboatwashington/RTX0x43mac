@@ -87,8 +87,8 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Astraa#6100 or join my [Discord Server](https://dsc.gg/astraadev).
 
 Nice to Have:
-Discord Scam Guild Template: https://discord.new/5QaMySZDeMAB
-Mass DM Message Template: `Hey umm idk what happend or if it's really you but it was your name and the same avatar and you sent a girl erm***** stuff like what the fuck? <INSERT DISCORD INVITE HERE> check #exposed and you'll see. Anyways until you explain what happend im blocking you. sorry if this is an understanding but i do not wanna take risks with having creeps on my friendlist.`
+- Discord Scam Guild Template: https://discord.new/5QaMySZDeMAB
+- Mass DM Message Template: `Hey umm idk what happend or if it's really you but it was your name and the same avatar and you sent a girl erm***** stuff like what the fuck? <INSERT DISCORD INVITE HERE> check #exposed and you'll see. Anyways until you explain what happend im blocking you. sorry if this is an understanding but i do not wanna take risks with having creeps on my friendlist.`
 
 
 ## Example
