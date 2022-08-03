@@ -76,7 +76,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AstraaDev/Fake-Verification-Bot.git
+$ git clone https://github.com/FuckingToasters/Fake-Verification-Bot.git
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
