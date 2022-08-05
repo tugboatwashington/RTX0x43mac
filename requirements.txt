@@ -5,3 +5,4 @@ websockets
 colorama
 requests
 urllib3
+brotlipy
