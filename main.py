@@ -371,7 +371,7 @@ async def start(ctx):
                             print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Current DM(s) successfully messaged")
                             if logs_channel:
                                 embed_cdm = nextcord.Embed(title=f"**Spam Current DMs Option:**", description=f"Messages sent succesfully with {user.username}#{user.discriminator} account\n```yaml\nMessage: {message}\nCurrent Dms: {len(channel_id)}\nSuccessfully sent: {success} message(s)\nUnuccessfully sent: {failures} message(s)```", color=5003474)
-                                embed_cdm.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
+                                embed_cdm.set_footer(text="Made by Infinimonster#1312 »» https://github.com/FuckingToasters")
                                 embed_cdm.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                                 await logs_channel.send(embed=embed_cdm)
                         except Exception as e:
@@ -399,7 +399,7 @@ async def start(ctx):
                                 print(f"\t\t\t\t\t\t{y}[{Fore.LIGHTGREEN_EX}!{y}]{w} Friend(s) successfully messaged")
                             if logs_channel:
                                 embed_fdm = nextcord.Embed(title=f"**Spam Friends Option:**", description=f"Messages sent succesfully with {user.username}#{user.discriminator} account\n```yaml\nMessage: {message}\nTotal Friends: {len(getfriends)}```", color=5003474)
-                                embed_fdm.set_footer(text="Made by Astraa#6100  ãƒ»  https://github.com/astraadev")
+                                embed_fdm.set_footer(text="Made by Infinimonster#1312 »» https://github.com/FuckingToasters")
                                 embed_fdm.set_thumbnail(url=f"https://cdn.discordapp.com/avatars/{user.id}/{user.avatar}.png")
                                 await logs_channel.send(embed=embed_fdm)
                         except Exception as e:
