@@ -105,12 +105,12 @@ def Init():
         bot_title()
         input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} Please set a prefix in the config.json file.")
         return
-    try:
-        bot.run(botToken)
+    try: bot.run(botToken)
     except:
         os.system("cls")
         bot_title()
-        input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} The token located in the config.json file is invalid")
+        # input(f"\t\t\t\t\t\t{y}[{Fore.LIGHTRED_EX}!{y}]{w} The token located in the config.json file is invalid")
+        raise Exception # Exceptions are raised, when the bot can't login. reasons for this can be a invalid token, not all intents enabled, connection error etc.
         return
 
 #Event initialization
